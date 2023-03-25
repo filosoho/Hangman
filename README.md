@@ -21,6 +21,134 @@ Keep guessing letters until you either guess the whole word or run out of lives.
 
 Good luck and have fun!
 
+~~~  
+  _                                            
+ | |                                           
+ | |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  
+ | '_ \ / _` | '_ \ / _` | '_ ` _ \ / _` | '_ \ 
+ | | | | (_| | | | | (_| | | | | | | (_| | | | |
+ |_| |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
+                     __/ |                      
+                    |___/                       
+
+Welcome to Hangman!
+
+_ _ _ _ _ _ _ _ 
+
+Guess a letter: a
+--------------------------------------------------------------
+The letter 'a' is not in this word. You loose a life.
+--------------------------------------------------------------
+ 
+  +---+
+  |   |
+  O   |
+      |
+      |
+      |
+=========
+_ _ _ _ _ _ _ _ 
+
+Guess a letter: e
+
+e _ _ _ e _ _ _ 
+
+Guess a letter: i
+--------------------------------------------------------------
+The letter 'i' is not in this word. You loose a life.
+--------------------------------------------------------------
+ 
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+e _ _ _ e _ _ _ 
+
+Guess a letter: o
+
+e _ _ o e _ _ _ 
+
+Guess a letter: u
+--------------------------------------------------------------
+The letter 'u' is not in this word. You loose a life.
+--------------------------------------------------------------
+ 
+  +---+
+  |   |
+  O   |
+ /|   |
+      |
+      |
+=========
+e _ _ o e _ _ _ 
+
+Guess a letter: s
+--------------------------------------------------------------
+The letter 's' is not in this word. You loose a life.
+--------------------------------------------------------------
+ 
+  +---+
+  |   |
+  O   |
+ /|\  |
+      |
+      |
+=========
+e _ _ o e _ _ _ 
+
+Guess a letter: t
+
+e _ _ o e t _ _ 
+
+Guess a letter: r
+
+e _ _ o e t _ r 
+
+Guess a letter: n
+--------------------------------------------------------------
+The letter 'n' is not in this word. You loose a life.
+--------------------------------------------------------------
+ 
+  +---+
+  |   |
+  O   |
+ /|\  |
+ /    |
+      |
+=========
+e _ _ o e t _ r 
+
+Guess a letter: l
+
+e _ _ o e t l r 
+
+Guess a letter: m
+--------------------------------------------------------------
+The letter 'm' is not in this word. You loose a life.
+--------------------------------------------------------------
+ 
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
+e _ _ o e t l r 
+
+You lose.
+
+====================================
+
+The word was seashell
+
+====================================
+~~~  
+
+
 # Contributing
 
 If you would like to contribute to this program, feel free to submit a pull request. Please include a detailed description of the changes made and the reasons for the changes.
