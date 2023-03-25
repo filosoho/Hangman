@@ -12,7 +12,7 @@ Open the terminal or command prompt and navigate to the cloned repository direct
 Run the following command to start the game:
 
 ```
-python hangman.py
+main.py
 ```
 
 The game will prompt you to guess a letter. Type in a letter and press Enter.
